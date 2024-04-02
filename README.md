@@ -1,6 +1,5 @@
 # Modelo de Relacionamento de E-Commerce 
 
-<img align="right" height="560em" src="Print1.png">
 
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Este é meu projeto de relacionamento com SQL</h1>
 
@@ -34,7 +33,7 @@ combinando dados das tabelas `Clientes` e `Pedidos`.
 
 
 <br>
-<img align="right" height="560em" src="Print2.png">
+<img align="right" height="560em" src="E-COMMERCE.png">
 
 <br>
 ![Static Badge](https://img.shields.io/badge/Thank%20You-brightgreen)

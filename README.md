@@ -36,6 +36,7 @@ combinando dados das tabelas `Clientes` e `Pedidos`.
 <img align="right" height="560em" src="E-COMMERCE.png">
 
 <br>
+<br>
 ![Static Badge](https://img.shields.io/badge/Thank%20You-brightgreen)
 <br>
 SITE: https://shields.io/badges/static-badge
